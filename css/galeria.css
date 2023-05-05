@@ -1,0 +1,12 @@
+#galeria .galeria__fotos{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#galeria .galeria__item {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+}
+
